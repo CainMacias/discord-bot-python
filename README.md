@@ -3,7 +3,7 @@
 A simple Discord bot built with Python 3.11 and discord.py.
 
 ## Features
-- Responds to `$hello`
+- Responds to `$chambea`
 - Sends random memes using a public API
 - Custom commands
 
